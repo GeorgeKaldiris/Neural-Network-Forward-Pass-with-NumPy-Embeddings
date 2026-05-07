@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project implements a simplified neural network forward pass using NumPy. The input is represented as a matrix of token IDs, similar to how tokenized text can be represented before being processed by neural models.
+This project implements a simplified neural network forward pass using NumPy. The input is represented as a matrix of token IDs similar to how tokenized text can be represented before being processed by neural models.
 
 The project includes token embedding lookup, padding handling, masked average pooling, linear transformations, ReLU activation and softmax probability calculation.
 
